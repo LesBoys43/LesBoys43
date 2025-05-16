@@ -23,5 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-如何应用我刚写的action 要放到哪里？
